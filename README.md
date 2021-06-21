@@ -1,0 +1,1 @@
+# Polygenic-Risk-Score-of-Indians-for-UKBB-trais
